@@ -1,4 +1,4 @@
-name: "Validations"
+name: "🔨 Validations"
 
 on:
   workflow_dispatch:
