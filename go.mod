@@ -1,6 +1,7 @@
 module github.com/khulnasoft/binpack
 
 go 1.22.0
+toolchain go1.23.6
 
 require (
 	github.com/Masterminds/semver/v3 v3.3.1
@@ -8,7 +9,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/anchore/bubbly v0.0.0-20230919123500-747f4abea05f
-	github.com/chainguard-dev/yam v0.0.0-20230904174023-8d3c53b7e9d7
+	github.com/chainguard-dev/yam v0.2.8
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.2.4
 	github.com/charmbracelet/lipgloss v1.0.0
