@@ -1,7 +1,7 @@
 module github.com/khulnasoft/binpack
 
 go 1.22.0
-toolchain go1.23.6
+toolchain go1.24.1
 
 require (
 	github.com/Masterminds/semver/v3 v3.3.1
@@ -38,7 +38,7 @@ require (
 	github.com/wagoodman/go-progress v0.0.0-20220614130704-4b1c25a33c7c
 	golang.org/x/net v0.35.0
 	golang.org/x/oauth2 v0.26.0
-	golang.org/x/sync v0.11.0
+	golang.org/x/sync v0.13.0
 	golang.org/x/term v0.29.0
 	gopkg.in/yaml.v3 v3.0.1
 )
