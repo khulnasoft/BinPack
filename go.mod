@@ -1,6 +1,7 @@
 module github.com/khulnasoft/binpack
 
-go 1.22.0
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -37,7 +38,7 @@ require (
 	github.com/wagoodman/go-partybus v0.0.0-20230516145632-8ccac152c651
 	github.com/wagoodman/go-progress v0.0.0-20220614130704-4b1c25a33c7c
 	golang.org/x/net v0.40.0
-	golang.org/x/oauth2 v0.26.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sync v0.14.0
 	golang.org/x/term v0.32.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -57,7 +58,7 @@ require (
 	github.com/charmbracelet/harmonica v0.2.0 // indirect
 	github.com/charmbracelet/x/ansi v0.4.5 // indirect
 	github.com/charmbracelet/x/term v0.2.1 // indirect
-	github.com/cloudflare/circl v1.3.7 // indirect
+	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/cyphar/filepath-securejoin v0.3.6 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dsnet/compress v0.0.2-0.20210315054119-f66993602bf5 // indirect
@@ -131,7 +132,7 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tidwall/sjson v1.2.5 // indirect
-	github.com/ulikunitz/xz v0.5.10 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
